@@ -1,0 +1,9 @@
+requests
+click
+python-dotenv
+openpyxl
+jinja2
+pytest
+pytest-cov
+black
+flake8
