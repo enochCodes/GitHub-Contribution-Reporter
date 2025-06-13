@@ -1,0 +1,140 @@
+{
+  "repository": {
+    "name": "Aksumite-Platforms-Inc/INSA-PersonalityTest-saas-web-app",
+    "description": "the saas based personality taking platform ",
+    "url": "https://github.com/Aksumite-Platforms-Inc/INSA-PersonalityTest-saas-web-app",
+    "stars": 0,
+    "forks": 4,
+    "language": "TypeScript",
+    "created_at": "2025-04-09T05:45:36Z",
+    "updated_at": "2025-06-12T13:43:57Z"
+  },
+  "summary": {
+    "total_contributors": 11,
+    "total_contributions": 349,
+    "report_generated": "2025-06-12T16:52:22.070638"
+  },
+  "contributors": [
+    {
+      "username": "zemuumez",
+      "name": "",
+      "contributions": 162,
+      "profile_url": "https://github.com/zemuumez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135070468?v=4",
+      "type": "User",
+      "total_commits": 21,
+      "additions": 49735,
+      "deletions": 26115
+    },
+    {
+      "username": "enochCodes",
+      "name": "",
+      "contributions": 120,
+      "profile_url": "https://github.com/enochCodes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112809816?v=4",
+      "type": "User",
+      "total_commits": 21,
+      "additions": 14425,
+      "deletions": 18691
+    },
+    {
+      "username": "yordiyes",
+      "name": "",
+      "contributions": 26,
+      "profile_url": "https://github.com/yordiyes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/133559301?v=4",
+      "type": "User",
+      "total_commits": 21,
+      "additions": 33968,
+      "deletions": 26387
+    },
+    {
+      "username": "Tesfatsion-Gudeta",
+      "name": "",
+      "contributions": 15,
+      "profile_url": "https://github.com/Tesfatsion-Gudeta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/151872860?v=4",
+      "type": "User",
+      "total_commits": 21,
+      "additions": 2795,
+      "deletions": 452
+    },
+    {
+      "username": "Kirubel-Amare",
+      "name": "",
+      "contributions": 9,
+      "profile_url": "https://github.com/Kirubel-Amare",
+      "avatar_url": "https://avatars.githubusercontent.com/u/151846809?v=4",
+      "type": "User",
+      "total_commits": 21,
+      "additions": 113,
+      "deletions": 278
+    },
+    {
+      "username": "Sami4N",
+      "name": "",
+      "contributions": 7,
+      "profile_url": "https://github.com/Sami4N",
+      "avatar_url": "https://avatars.githubusercontent.com/u/125755469?v=4",
+      "type": "User",
+      "total_commits": 21,
+      "additions": 896,
+      "deletions": 348
+    },
+    {
+      "username": "kenenisagizaw",
+      "name": "",
+      "contributions": 4,
+      "profile_url": "https://github.com/kenenisagizaw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/152353954?v=4",
+      "type": "User",
+      "total_commits": 21,
+      "additions": 173,
+      "deletions": 357
+    },
+    {
+      "username": "google-labs-jules[bot]",
+      "name": "",
+      "contributions": 3,
+      "profile_url": "https://github.com/apps/google-labs-jules",
+      "avatar_url": "https://avatars.githubusercontent.com/in/842251?v=4",
+      "type": "Bot",
+      "total_commits": 21,
+      "additions": 2637,
+      "deletions": 2422
+    },
+    {
+      "username": "x21enax",
+      "name": "",
+      "contributions": 1,
+      "profile_url": "https://github.com/x21enax",
+      "avatar_url": "https://avatars.githubusercontent.com/u/146888204?v=4",
+      "type": "User",
+      "total_commits": 21,
+      "additions": 12,
+      "deletions": 3
+    },
+    {
+      "username": "FasHub",
+      "name": "",
+      "contributions": 1,
+      "profile_url": "https://github.com/FasHub",
+      "avatar_url": "https://avatars.githubusercontent.com/u/81920434?v=4",
+      "type": "User",
+      "total_commits": 21,
+      "additions": 122,
+      "deletions": 12
+    },
+    {
+      "username": "GaromaMakure",
+      "name": "",
+      "contributions": 1,
+      "profile_url": "https://github.com/GaromaMakure",
+      "avatar_url": "https://avatars.githubusercontent.com/u/152319584?v=4",
+      "type": "User",
+      "total_commits": 21,
+      "additions": 0,
+      "deletions": 1401
+    }
+  ]
+}
